@@ -1,0 +1,3 @@
+package bullmq;
+
+typedef Strategies = { };

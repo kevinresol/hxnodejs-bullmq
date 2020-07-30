@@ -1,0 +1,12 @@
+{
+  "name": "hxnodejs-bullmq",
+  "url": "http://github.com/kevinresol/hxnodejs-bullmq",
+  "license": "MIT",
+  "tags": ["bullmq", "nodejs"],
+  "description": "Externs for the NPM BullMQ library",
+  "version": "0.0.1",
+  "releasenote": "",
+  "contributors": ["kevinresol"],
+  "classPath":"src",
+  "dependencies": {}
+}

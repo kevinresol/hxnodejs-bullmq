@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "bullmq": "^1.9.0",
+    "dts2hx": "^0.13.3"
+  }
+}
